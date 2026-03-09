@@ -2,7 +2,7 @@
 
 # Key Takeaways
 
-When evaluating information on the Internet, the user must consider the reputability of the source, credible evidence, objective evaluation of infomration, and consistency from multiple sources.
+When evaluating information on the Internet, the user must consider the reputability of the source, credible evidence, objective evaluation of information, and consistency from multiple sources.
 
 There are several search operators that can be used to search for information. Google, for example, has several search operators: **"exact phrase"**, **site:**, **-**, **filetype:**, and more.
 
@@ -29,7 +29,7 @@ Few things to consider when evaluating information:
 
 > **"exact phrase"** - match the exact phrase inside quotes.
 
-> **site:** - this operator lets the user specify domain name to which teh search is limited,
+> **site:** - this operator lets the user specify domain name to which the search is limited,
 
 > **-** - the minus sign allows to omit search results that contain a particular word or phrase.
 >
@@ -45,7 +45,7 @@ Few things to consider when evaluating information:
 
 Shodan us a specialized search engine which allows users to search for specific types and versions of servers, networking equipment, industrial control systems, IoT devices.
 
-> For example, the user may want to see how many servers are running APache 2.4.1. This can be searched for using **apache 2.4.1** keyword, which will return the list of servers with the string "apache 2.4.1" in their headers.
+> For example, the user may want to see how many servers are running Apache 2.4.1. This can be searched for using **apache 2.4.1** keyword, which will return the list of servers with the string "apache 2.4.1" in their headers.
 
 ### Censys
 
@@ -63,7 +63,7 @@ Have I Been Pwned is an online website which tells the user if an email address 
 
 ### CVE
 
-**Common Vulnerabilities and Exposures** (CVE) is a program providing a standardized identifier for vulnerabilities and security issues in software and hardware products. Each vulnerablity is assigned a CVE ID with a standardized format like **CVE-2024-29988**.
+**Common Vulnerabilities and Exposures** (CVE) is a program providing a standardized identifier for vulnerabilities and security issues in software and hardware products. Each vulnerability is assigned a CVE ID with a standardized format like **CVE-2024-29988**.
 
 The CVE system is maintained by the MITRE Corporation.
 
