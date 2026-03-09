@@ -1,5 +1,17 @@
 # Search Skills @ [TryHackMe](https://tryhackme.com/room/searchskills)
 
+# Key Takeaways
+
+When evaluating information on the Internet, the user must consider the reputability of the source, credible evidence, objective evaluation of infomration, and consistency from multiple sources.
+
+There are several search operators that can be used to search for information. Google, for example, has several search operators: **"exact phrase"**, **site:**, **-**, **filetype:**, and more.
+
+Google is not the only search engine. There is a myriad of specialized search engines designed to search for very specific information which may not be optimized for by other engines. For example, Shodan allows the user to search for specialized networking-related information.
+
+Consider **Common Vulnerabilities and Exposures** (CVE) and **the Exploit Database** for searching for identified and standardized vulnerabilities.
+
+# Notes
+
 ## Evaluation of Search Results
 
 Few things to consider when evaluating information:
